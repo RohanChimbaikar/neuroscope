@@ -1,0 +1,9 @@
+{
+    "architecture": "Improved True Multi-Head RoBERTa",
+    "pooling": "mean_pooling",
+    "tasks": {
+        "sentiment": 3,
+        "sarcasm": 2,
+        "emotion": 28
+    }
+}
