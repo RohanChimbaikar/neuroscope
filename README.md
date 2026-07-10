@@ -14,7 +14,6 @@ Create a new folder and open it in **Visual Studio Code**.
 git clone https://github.com/RohanChimbaikar/neuroscope.git
 ```
 
-<img width="858" height="222" alt="image" src="https://github.com/user-attachments/assets/a7faa935-af26-47a4-9987-ae6f6b752831" />
 
 ---
 
@@ -40,7 +39,6 @@ python -m venv .venv
 .\.venv\Scripts\activate
 ```
 
-<img width="583" height="90" alt="image" src="https://github.com/user-attachments/assets/488fe328-d22e-49b7-a70f-7af498ac8606" />
 
 ---
 
@@ -50,7 +48,6 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-<img width="767" height="183" alt="image" src="https://github.com/user-attachments/assets/ebc5a885-61c3-405b-9743-9677a613b2f0" />
 
 ---
 
@@ -68,5 +65,4 @@ cd Neuroscope
 streamlit run app.py
 ```
 
-<img width="810" height="251" alt="image" src="https://github.com/user-attachments/assets/0a4bc8e3-13ba-4989-be36-fc41f7eff0fc" />
 
